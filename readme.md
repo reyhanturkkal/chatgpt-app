@@ -1,6 +1,6 @@
 # ChatGPT App
 
-Bu projede, yalnızca metin istemleri kullanarak soru yanıtlama görevleri için OpenAI API kullanılmıştır. Light/night mode are adapted to the theme of the device.
+In this project, the OpenAI API was used for question answering tasks using only text prompts. Light/night mode are adapted to the theme of the device.
 
 ## OpenAI API Usage
 
